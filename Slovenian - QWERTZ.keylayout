@@ -409,7 +409,7 @@
             <key code="9" output="@"/>
             <key code="10" output="‹"/>
             <key code="11" output="{"/>
-            <key code="12" output="œ"/>
+            <key code="12" output="\"/>
             <key code="13" output="|"/>
             <key code="14" action="´"/>
             <key code="15" output="®"/>
@@ -439,7 +439,7 @@
             <key code="39" output="^"/>
             <key code="40" action="invertedBreve"/>
             <key code="41" output="…"/>
-            <key code="42" output="\"/>
+            <key code="42" output="œ"/>
             <key code="43" output="≤"/>
             <key code="44" output="÷"/>
             <key code="45" output="}"/>
